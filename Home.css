@@ -1,0 +1,116 @@
+.u-section-1 {
+  background-image: url("images/photo-1515524738708-327f6b0037a7.jfif");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 982px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  animation-duration: 1000ms;
+  margin: 464px auto 0 817px;
+  padding: 16px 33px 17px 32px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  animation-duration: 1000ms;
+  margin: -55px auto 0 111px;
+  padding: 16px 33px 17px 32px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 228px;
+  height: auto;
+  margin: 237px -100px 0 670px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 810px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 749px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-bottom: 60px;
+    margin-left: -21px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 570px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 620px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    animation-duration: 1250ms;
+    margin-top: 414px;
+    margin-left: 457px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    animation-duration: 1250ms;
+    margin-top: -65px;
+    margin-left: 51px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 460px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 465px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 542px;
+    margin-left: 164px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -380px;
+    margin-left: 128px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 370px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 293px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 168px;
+    margin-left: 64px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 207px;
+    margin-left: 28px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 270px;
+  }
+}
